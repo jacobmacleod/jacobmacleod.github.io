@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Udacity Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[TMDb Movie Data Analysis](https://github.com/jacobmacleod/investigate-TMDb-data)
+<img src="images/avg-runtime-by-release-year.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
