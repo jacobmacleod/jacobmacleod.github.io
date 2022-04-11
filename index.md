@@ -24,9 +24,8 @@
 
 
 - [Racket Functions](https://github.com/jacobmacleod/racket-functions/tree)
-<!--
-- [Project 3 Title](http://example.com/)
--->
+
+<!-- - [Project 3 Title](http://example.com/) -->
 
 ---
 
