@@ -5,7 +5,7 @@
 ### Udacity Projects
 
 [TMDb Movie Data Analysis](https://github.com/jacobmacleod/investigate-TMDb-data)
-<img src="images/avg-runtime-by-release-year.png?raw=true"/>
+<img src="images/TMDb-project.png?raw=true"/>
 
 ---
 [Investigate Sakila DVD Rental Database](https://github.com/jacobmacleod/udacity-sakila-database-project)
