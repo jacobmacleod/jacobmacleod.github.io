@@ -22,8 +22,9 @@
 [U.S. Census Data Analysis](https://github.com/jacobmacleod/census-data-clustering-java)
 <img src="images/census-project.png?raw=true"/>
 
+
+- [Racket Functions](https://github.com/jacobmacleod/racket-functions/tree)
 <!--
-- [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 -->
 
