@@ -9,7 +9,7 @@
 
 ---
 [Investigate Sakila DVD Rental Database](https://github.com/jacobmacleod/udacity-sakila-database-project)
-<img src="images/Sakila-Project.PNG?raw=true"/>
+<img src="images/Sakila-Project.png?raw=true"/>
 
 ---
 [Explore Bikeshare Data](https://github.com/jacobmacleod/pdsnd_github)
